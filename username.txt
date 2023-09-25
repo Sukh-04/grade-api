@@ -1,0 +1,5 @@
+{
+  "message": "Token generated successfully",
+  "status_code": 200,
+  "token": "C2fG6OjkQW3IgV3ecwZQ7rwVR81PtpLB"
+}
